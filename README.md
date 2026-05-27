@@ -10,7 +10,6 @@ A passionate developer and CSE student from India 🇮🇳
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Call-me-ruddra&label=Profile%20views&color=0e75b6&style=flat)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Call-me-ruddra&theme=default&hide_border=false)
 
 ---
 
@@ -26,3 +25,5 @@ A passionate developer and CSE student from India 🇮🇳
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,html,css,js" />
 </p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Call-me-ruddra&theme=default&hide_border=false)
