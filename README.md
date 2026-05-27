@@ -8,13 +8,13 @@
 
 A passionate developer and CSE student from India 🇮🇳
 
-![Profile Views](https://komarev.com/ghpvc/?username=Call-me-ruddra&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ruddransh-bhardwaja&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ---
 
 * 🌱 I’m currently focused on **Data Science, Artificial Intelligence, and Machine Learning**
-* 👨‍💻 Check out my projects, including my voice-enabled AI chatbot (Jarvis) and open-source work (OS-linux1), at https://github.com/Call-me-ruddra
+* 👨‍💻 Check out my projects, including my voice-enabled AI chatbot (Jarvis) and open-source work (OS-linux1), at https://github.com/ruddransh-bhardwaj
 * 💬 Ask me about **Python, Java, C++, C, SQL, and Web Development**
 * 📫 How to reach me: **bhardwajruddransh@gmail.com**
 
@@ -26,4 +26,4 @@ A passionate developer and CSE student from India 🇮🇳
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,html,css,js" />
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Call-me-ruddra&theme=default&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruddransh-bhardwaj&theme=default&hide_border=false)
