@@ -18,6 +18,7 @@ A passionate developer and CSE student from India 🇮🇳
 
 ### Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruddransh-bhardwaj/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bhardwajruddransh@gmail.com)
 
 ### Languages and Tools: 
 <p align="left"> 
